@@ -108,17 +108,17 @@
         {
           "image": "https://i.imgur.com/WrLoQfH.png",
           "category": 29,
-          "padding": 15
+          "padding": 641
         },
         {
           "padding": 15,
           "image": "https://i.imgur.com/0q0J031.png",
-          "category": 28
+          "category": 1008
         },
         {
           "padding": 15,
           "image": "https://i.imgur.com/OOkEEGx.png",
-          "product": 30
+          "category": 1017
         }
       ],
       "showNumber": false
