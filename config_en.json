@@ -64,14 +64,14 @@
           "originalColor": false,
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/68x50/bf817e570f9d704dc88dad8bb29386d1/ic_shoes.png",
           "showDescription": false,
-          "category": "263",
+          "category": "1011",
           "keepDefaultTitle": false
         },
         {
           "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/72x38/8c778c1b92f5ca02e00c4a34b562c601/ic_tie.png",
           "originalColor": false,
           "keepDefaultTitle": false,
-          "category": "324",
+          "category": "1003",
           "showDescription": false,
           "colors": [
             "#43506A",
@@ -87,7 +87,7 @@
             "#12B58C"
           ],
           "showDescription": false,
-          "category": "320"
+          "category": "241"
         }
       ],
       "marginBottom": 10,
@@ -237,7 +237,7 @@
     },
     {
       "layout": "twoColumn",
-      "category": "264",
+      "category": "1011",
       "name": "Gifts",
       "isSnapping": false,
       "image": "",
